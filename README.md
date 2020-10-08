@@ -1,4 +1,5 @@
 # Linear Programming
+This lecture is conducted for lecturers from Politeknik Sultan Mizan Zainal Abidin at UITM Dungun Hotel on 7/10/2020.
 
 **Introduction**
 - Optimization 
